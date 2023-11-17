@@ -16,7 +16,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/Gaurav-Singh15/Talknet.git 
 Database Setup:
 
 Create a new MySQL database and import the database.sql file provided in the repository.
